@@ -1,0 +1,13 @@
+-Real Life Problems
+1 : Health Crisis
+2 : Failure 
+3: Finanial Crisis
+4 : Emptiness
+
+Which problem can be solved with an app
+-HEALTH CRISIS-
+
+Basically, people are just scared to search about some symtopms them must have contracted to in a fear that the results may be worse than expected or not reliable.
+Well, I will create an app in which a person can communicate his/her queries over the globe and only the doctors will answer him/her. 
+
+thats it , 
